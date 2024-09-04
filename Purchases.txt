@@ -1,0 +1,18 @@
+FOOD:
+Starbucks: $20.00
+Groceries: $100.00
+Total for FOOD: $120.00
+
+CLOTHES:
+Shirt: $50.00
+Total for CLOTHES: $50.00
+
+ENTERTAINMENT:
+Netflix: $20.00
+Total for ENTERTAINMENT: $20.00
+
+OTHER:
+Total for OTHER: $0.00
+
+Total Spent: $190.00
+Current Balance: $640.00
